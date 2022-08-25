@@ -29,7 +29,7 @@ Status: Finalizado
 
 ```bash
 # clonar repositório
-git clone [https://github.com/carologata/ToDoList-Ignite.git](https://github.com/carologata/Timer-Ignite.git)
+git clone https://github.com/carologata/Timer-Ignite.git
 
 # entrar na pasta do projeto
 cd Timer-Ignite
